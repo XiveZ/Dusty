@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16575883812",
+    "firebase_url": "https://dusty-afd4b.firebaseio.com",
+    "project_id": "dusty-afd4b",
+    "storage_bucket": "dusty-afd4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16575883812:android:0ae12250db9a5f8ace86b1",
+        "android_client_info": {
+          "package_name": "by.nj.dusty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16575883812-ecg0ctmrr0976air0um2p4ui6emk034m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "by.nj.dusty",
+            "certificate_hash": "d1e8d3e0f2cb268803c2a4ace8a3f3ee79bafbe7"
+          }
+        },
+        {
+          "client_id": "16575883812-s4qibsv64ctefpg33ra10rie54233ajh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZheZh5yDMIUkFrMIckXoHeeaungoztI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16575883812-s4qibsv64ctefpg33ra10rie54233ajh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

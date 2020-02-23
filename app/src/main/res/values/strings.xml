@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Dusty</string>
+    <string name="main">Асноўнае</string>
+    <string name="help">ЧЗП</string>
+    <string name="creator">Created by <b>Nj</b></string>
+    <string name="result">∑</string>
+    <string name="vk">vk</string>
+    <string name="dx1">dx1</string>
+    <string name="dx2">dx2</string>
+    <string name="VKresult">вынік</string>
+    <string name="error">Пустая прастора</string>
+    <string name="calculation_dx">Разлік Vk для dx: Al-Si, Al-Si-Cu-Ti</string>
+    <string name="calculation_Vdx">Адпаведнасць Rs да dx: V</string>
+    <string name="quick_calculation">Хуткі разлік dx</string>
+    <string name="dataBasseText">Data</string>
+
+    <string name="helping">
+        <b>ПАМЯТКА ОПЕРАТОРУ</b>\n\n
+
+        <ol>
+            <li><b>ПРОВЕРИТЬ</b> соответствие номера партии в сопроводительном листе, на пенале и на пластинах; наличие отметки о выполнении предыдущей операции.</li>\n\n
+            <li><b>ОЗНАКОМИТЬСЯ</b> с требованиями в графе сопроводительного листа <b>\"ТРЕБОВАНИЯ\"</b></li>\n\n
+
+            После проведения процесса:\n\n
+            <li><b>ЗАПИСАТЬ</b> значение полученного параметра в сопроводительный лист в колонке <b>\"ФАКТИЧЕСКИЕ ПАРАМЕТРЫ\"</b></li>\n\n
+        </ol>
+
+        <ul>О любых отклонениях параметров техпроцесса на данной партии докладывать технологу и фиксировать их в <b>ЛИСТЕ КОНТРОЛЯ КАЧЕСТВА</b>\n\n
+            <li><br>НЕ СОЗДАВАЙТЕ УСЛОВИЙ ДЛЯ ПОЯВЛЕНИЯ ДЕФЕКТОВ.</br></li>\n\n
+            <li><br>НЕ ПРИНИМАЙТЕ ДЕФЕКТНУЮ ПРОДУКЦИЮ С ПРЕДЫДУЩЕЙ ОПЕРАЦИИ.</br></li>\n\n
+            <li><br>НЕ ПЕРЕДАВАЙТЕ ДЕФЕКТНУЮ ПРОДУКЦИЮ НА СЛЕДУЮЩУЮ ОПЕРАЦИЮ.</br></li>\n\n
+            <li><br>НЕ ИЗМЕНЯЙТЕ САМОСТОЯТЕЛЬНО ТЕХНОЛОГИЧЕСКИЕ РЕЖИМЫ.</br></li>\n\n
+            <li><br>НЕ ПОВТОРЯЙТЕ ДОПУЩЕНЫХ ОШИБОК.</br></li>
+
+        </ul>
+    </string>
+
+
+    <string-array name="rs">
+        <item>6.0</item>
+        <item>5.9</item>
+        <item>5.8</item>
+        <item>5.7</item>
+        <item>5.6</item>
+        <item>5.5</item>
+        <item>5.4</item>
+        <item>5.3</item>
+        <item>5.2</item>
+        <item>5.1</item>
+        <item>5.0</item>
+        <item>4.9</item>
+        <item>4.8</item>
+        <item>4.7</item>
+        <item>4.6</item>
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>4.0</item>
+    </string-array>
+
+    <string-array name="dx">
+        <item>600</item>
+        <item>610</item>
+        <item>620</item>
+        <item>630</item>
+        <item>640</item>
+        <item>650</item>
+        <item>660</item>
+        <item>670</item>
+        <item>680</item>
+        <item>690</item>
+        <item>700</item>
+        <item>710</item>
+        <item>720</item>
+        <item>730</item>
+        <item>740</item>
+        <item>750</item>
+        <item>760</item>
+        <item>770</item>
+        <item>780</item>
+        <item>790</item>
+        <item>800</item>
+    </string-array>
+
+    <string-array name="title">
+        <item>Аттестация</item>
+        <item>Компетентность</item>
+        <item>Осведомленность</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="text">
+        <item>Метод изучения персонала, включающий оценку результатов деятельности работника за определенный период времени, с проверкой его соответствия занимаемой должности и возможностей его дальнейшего служебного продвижения.</item>
+        <item>Способность применять знания и навыки для достежения намеченных результатов (СТБ ISO 9000).</item>
+        <item>Понимание персоналом обязанностей и вклада своих действий в достижение целей организации.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string name="_0_27">0,27</string>
+    <string name="_0_297">0,297</string>
+    <string name="_0_324">0,324</string>
+    <string name="_0_351">0,351</string>
+    <string name="_0_378">0,378</string>
+    <string name="_0_405">0,405</string>
+    <string name="_0_432">0,432</string>
+    <string name="_0_459">0,459</string>
+    <string name="_0_489">0,489></string>
+    <string name="_0_51">0,51</string>
+
+
+    <string name="_0_54">0,54</string>
+    <string name="_0_567">0,567</string>
+    <string name="_0_594">0,594</string>
+    <string name="_0_621">0,621</string>
+    <string name="_0_648">0,648</string>
+    <string name="_0_675">0,675</string>
+    <string name="_0_702">0,702</string>
+    <string name="_0_729">0,729</string>
+    <string name="_0_759">0,759</string>
+    <string name="_0_783">0,783</string>
+
+    <string name="_0_81">0,81</string>
+    <string name="_0_837">0,837</string>
+    <string name="_0_864">0,864</string>
+    <string name="_0_891">0,891</string>
+    <string name="_0_918">0,918</string>
+    <string name="_0_945">0,945</string>
+    <string name="_0_972">0,972</string>
+    <string name="_0_999">0,999</string>
+    <string name="_1_026">1,026</string>
+    <string name="_1_053">1,053</string>
+    <string name="_1_08">1,08</string>
+
+    <string name="_1_107">1,107</string>
+    <string name="_1_134">1,134</string>
+    <string name="_1_16">1,16</string>
+    <string name="_1_118">1,118</string>
+    <string name="_1_215">1,215</string>
+    <string name="_1_242">1,242</string>
+    <string name="_1_269">1,269</string>
+    <string name="_1_296">1,296</string>
+    <string name="_1_323">1,323</string>
+    <string name="_1_35">1,35</string>
+
+    <string name="_1_377">1,377</string>
+    <string name="_1_404">1,404</string>
+    <string name="_1_431">1,431</string>
+    <string name="_1_458">1,458</string>
+    <string name="_1_485">1,485</string>
+    <string name="_1_512">1,512</string>
+    <string name="_1_539">1,539</string>
+    <string name="_1_566">1,566</string>
+    <string name="_1_593">1,593</string>
+    <string name="_1_62">1,62</string>
+    <string name="dx">dx</string>
+    <string name="in_future">У распрацоўцы</string>
+
+
+</resources>
